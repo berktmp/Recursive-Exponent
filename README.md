@@ -1,1 +1,3 @@
 # Recursive-Exponent
+
+This repository contains a Java program that calculates the power of a number using a recursive method. The program prompts the user to enter the base and exponent values, and then recursively calculates the result by multiplying the base with itself raised to the power of the reduced exponent. It demonstrates the concept of recursion and provides a convenient tool for computing exponential values. The code is well-commented and organized, making it easy to understand and modify. This program serves as a useful reference for anyone looking to implement recursive power calculations in Java.
